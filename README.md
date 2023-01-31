@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Alina Kabanets.</h1>
-<h3 align="center">A future Front End Developer based in the UK.</h3>
+<h3 align="center">A future frontend developer from the UK.</h3>
 
-- 🌱 I’m currently studying **JavaScript, HTML, CSS, React, Typescript and Redux at Mate academy Front End Development course.**
+- 🌱 I’m currently learning **JavaScript, HTML, CSS, React, Typescript and Redux at Mate academy Front End Development course.**
 
 - 🤝 My goal is **to attain a junior Front End developer position in 2023.**
 
@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/alina-kabanets-b9b5a5257/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alina-kabanets-b9b5a5257/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/alina-kabanets-b9b5a5257" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alina-kabanets-b9b5a5257/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
