@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Alina Kabanets.</h1>
-<h3 align="center">A future frontend developer from the UK.</h3>
+<h3 align="center">A future Front End Developer based in the UK.</h3>
 
-- 🌱 I’m currently learning **JavaScript, HTML, CSS, React, Typescript and Redux at Mate academy Front End Development course.**
+- 🌱 I’m currently studying **JavaScript, HTML, CSS, React, Typescript and Redux at Mate academy Front End Development course.**
 
 - 🤝 My goal is **to attain a junior Front End developer position in 2023.**
 
