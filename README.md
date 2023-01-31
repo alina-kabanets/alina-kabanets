@@ -1,5 +1,5 @@
 ### Hey 👋, I'm Alina Kabanets.
-A future frontend developer from the UK.
+A future frontend developer based in the UK.
 
 🌱 I’m currently learning JavaScript, HTML, CSS, React, Typescript and Redux at Mate academy Front End Development course.
 
