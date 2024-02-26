@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Alina Kabanets.</h1>
-<h3 align="center">Front End Developer in training, based in London, UK.</h3>
+<h3 align="center">Front End Developer in training, based in Milton Keynes, UK.</h3>
 
 - 🌱 I’m currently studying **JavaScript, HTML, CSS, React, Typescript and Redux at Mate academy Front End Development course.**
 
