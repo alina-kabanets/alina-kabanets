@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently studying **JavaScript, HTML, CSS, React, Typescript and Redux at Mate academy Front End Development course.**
 
-- 🤝 My goal is **to attain a junior Front End Developer position in spring 2024.**
+- 🤝 My goal is **to attain a junior Front End Developer position in 2024.**
 
 - 📫 How to reach me **aokabanets@gmail.com**
 
