@@ -1,7 +1,9 @@
 <h1 align="center">Hey 👋, I'm Alina Kabanets.</h1>
 <h3 align="center">Frontend Developer in training, based in London, UK.</h3>
 
-- 🌱 I’m currently studying **JavaScript, HTML, CSS, React, Typescript and Redux at Mate academy Frontend Development course.**
+- 👩🏽‍🎓 I’m currently studying **JavaScript, HTML, CSS, React, Typescript and Redux at Mate academy Frontend Development course.**
+  
+- 👩🏽‍💻 I **write articles about Frontend technologies** on my blog here: https://alinakabanets.com/
 
 - 🤝 My goal is **to attain a Frontend Developer position in 2024.**
 
