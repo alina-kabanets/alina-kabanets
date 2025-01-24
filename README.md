@@ -5,7 +5,7 @@
   
 - 👩🏽‍💻 I **write articles about Frontend technologies** on my blog here: https://alinakabanets.com/
 
-- 🤝 My goal is **to attain a Frontend Developer position in 2024.**
+- 🤝 My goal is **to attain a Frontend Developer position in 2025.**
 
 - 📫 How to reach me **aokabanets@gmail.com**
 
