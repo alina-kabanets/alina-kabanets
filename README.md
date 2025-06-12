@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋, I'm Alina Kabanets.</h1>
 <h3 align="center">UX/UI Designer & Front-End Developer, based in UK.</h3>
 
-- Portfolio: <a href="https://alinakabanets.com" </a>
+- Portfolio: https://alinakabanets.com
 - How to reach me **aokabanets@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
