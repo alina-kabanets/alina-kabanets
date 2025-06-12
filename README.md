@@ -1,11 +1,5 @@
 <h1 align="center">Hey 👋, I'm Alina Kabanets.</h1>
-<h3 align="center">Front-end Developer, based in London, UK.</h3>
-
-- 👩🏽‍🎓 I’m currently studying **JavaScript, React, Typescript, Redux, HTML and CSS at Mate Academy Front-end Development course.**
-  
-- 👩🏽‍💻 I **write articles about Front-end technologies** on my blog here: https://alinakabanets.com/
-
-- 🤝 My goal is **to attain a Front-end Developer position in 2025.**
+<h3 align="center">UX/UI Designer & Front-End Developer, based in UK.</h3>
 
 - 📫 How to reach me **aokabanets@gmail.com**
 
