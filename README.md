@@ -1,5 +1,5 @@
 <h1 align="center">Hey 👋, I'm Alina Kabanets.</h1>
-<h3 align="center">UX/UI Designer & Front-End Developer, based in UK.</h3>
+<h3 align="center">Product engineer, based in UK.</h3>
 
 - Portfolio: www.alinakabanets.com
 - How to reach me **aokabanets@gmail.com**
